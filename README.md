@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is Diego Garza and I'm a Web developer, from Mexico</h2>
+
+![Diego](https://github.com/Diego-Garza2007/Diego-Garza2007/assets/83521725/576663c0-3849-421b-8e5d-ddcf17226dfc)
+
+
+
+<h2 align="left">Hi 👋! My name is Diego Garza ![Uploading Diego.png…]()
+and I'm a Web developer, from Mexico</h2>
 
 ###
 
