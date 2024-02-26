@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<!--
+![Diego](https://github.com/Diego-Garza2007/Diego-Garza2007/assets/83521725/1d8b5e9b-ced3-43e8-bcae-638c1391f424)
+
+
 **Diego-Garza2007/Diego-Garza2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
