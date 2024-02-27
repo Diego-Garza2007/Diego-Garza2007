@@ -3,7 +3,7 @@
 
 
 
-<h2 align="left">Hi 👋! My name is Diego Garza ![Uploading Diego.png…]()
+<h2 align="left">Hi 👋! My name is Diego Garza 
 and I'm a Web developer, from Mexico</h2>
 
 ###
