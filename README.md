@@ -63,6 +63,7 @@ and I'm a Web developer, from Mexico</h2>
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/diego-garza2007/diego-garza2007/output/snake.svg" alt="Snake animation" />
 
 
 ###
