@@ -1,6 +1,7 @@
 
 
 ![Diego](https://github.com/Diego-Garza2007/Diego-Garza2007/assets/83521725/3796cdf5-c4bd-4226-a739-e95beb720127)
+![Diego](https://github.com/user-attachments/assets/bd83780f-e73b-42cc-a299-3558595b2ded)
 
 
 <h2 align="left">Hi 👋! My name is Diego Garza 
